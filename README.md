@@ -1,7 +1,7 @@
-Requirements:
--Apache with PHP
--php.ini file configured as below
-
+Requirements:<br>
+-Apache with PHP<br>
+-php.ini file configured as below<br>
+<br>
 ****PHP.INI****
 change the line include_path line so that the path variable contains:
 include_path=include_path = ".:/path/to/google-api-php-client-master/src:/path/to/google-api-php-client-master"
