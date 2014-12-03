@@ -13,3 +13,5 @@ include_path=include_path = ".:/path/to/google-api-php-client-master/src:/path/t
 -everything should work<br>
 -if not, make sure line 21 on user-example.php is able to find the autoload.php file. It should be in the google-api-client-master folder<br>
 
+To run the example go to<br>
+http://localhost/examples/user-example.php<br>
